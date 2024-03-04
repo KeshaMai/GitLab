@@ -10,6 +10,8 @@ header {
 /* Style the h1 heading inside the header */
 header h1 {
     margin: 0; /* Remove default margin */
+    font-family: cursive;
+    font-size: 20px;
 }
 
 /* Style the navigation links */
