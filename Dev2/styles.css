@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Apply styles to the header */
+header {
+    background-color: #333; /* Dark gray background */
+    color: #fff; 
+    padding: 20px; 
+}
+
+/* Style the h1 heading inside the header */
+header h1 {
+    margin: 0; /* Remove default margin */
+}
+
+/* Style the navigation links */
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 20px; /* Add some space between list items */
+}
+
+nav ul li a {
+    color: #fff; /* White text color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
